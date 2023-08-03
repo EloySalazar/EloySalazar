@@ -30,6 +30,7 @@
 <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
+<a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kotlin.svg'> </a>
 <br>
   
 | ![Eloy's github stats](https://github-readme-stats.vercel.app/api?username=EloySalazar&show_icons=true&theme=tokyonight) | ![Eloy GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EloySalazar&theme=tokyonight) |
