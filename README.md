@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently studying.
   
-- 🌱 I’m currently learning Kotlin and Android Studio.
+- 🌱 I’m currently learning Ruby,Kotlin and Android Studio.
   
 - 👯 I’m looking to collaborate on projects.
   
