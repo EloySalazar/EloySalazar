@@ -40,7 +40,7 @@
 
 | ![Eloy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EloySalazar&show_icons=true&theme=codeSTACKr) | ![Eloy Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=EloySalazar&theme=codeSTACKr) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EloySalazar)| ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=EloySalazar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=codeSTACKr) |
+|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EloySalazar&theme=codeSTACKr)| ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=EloySalazar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=codeSTACKr) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=codeSTACKr)
 
