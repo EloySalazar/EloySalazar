@@ -27,7 +27,7 @@
  <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'> </a>
  <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'> </a>
  <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'> </a>
- <a href= 'https://github.com/EloySalazar?tab=repositories&q=&type=&language=html&sort='> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg'> </a>
+<a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg'> </a>
  <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg'> </a>
  <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg'> </a>
  <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'> </a>
