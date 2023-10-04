@@ -34,8 +34,8 @@
  <a href= 'https://github.com/EloySalazar?tab=repositories&q=&type=&language=html&sort='> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg'> </a>
  <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg'> </a>
  <a href= 'https://github.com/EloySalazar?tab=repositories&q=&type=&language=android&sort='> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
- <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg'> 
-<a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg'> 
+<a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg'> </a>
+<a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg'> </a>
 
 <br>
 <br>
