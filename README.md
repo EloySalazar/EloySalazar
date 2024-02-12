@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I’m Eloy <img src="https://i.imgur.com/ILVRpZm.gif" width="30px"></h1>
-## About Me:
-
+<h1 align="center">Hi, I’m Eloy</h1>
+## 🙋‍♂️ About Me
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Python, JavaScript, Java and C#.
 - 🔭 I’m currently working on **[Merge Corporation](https://github.com/MergeCorporation)**.
