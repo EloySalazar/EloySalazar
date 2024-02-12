@@ -13,7 +13,7 @@
 # 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,html,css,bash,c,c++,c#,bootstrap,java,django,flask&mysql=11" />
+    <img src="https://skillicons.dev/icons?i=py,js,html,css,bash,c,cpp,cs,angular,bootstrap,jquery,java,django,flask&dotnet=11" />
   </a>
 </p>
 
