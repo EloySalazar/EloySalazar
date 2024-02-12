@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Eloy <img src="https://i.imgur.com/ILVRpZm.gif" width="30px"></h1>
-# About Me:
+## About Me:
 
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Python, JavaScript, Java and C#.
