@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I’m Eloy</h1>
 
-## 🙋‍♂️ About Me
+##  About Me
 
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Python, JavaScript, Java and C#.
