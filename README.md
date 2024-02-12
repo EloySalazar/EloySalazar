@@ -1,49 +1,18 @@
-<h1> Hi there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
+# 💫 About Me:
+🔭 I’m currently  studying.<br>👯 I’m looking to collaborate on projects.<br>🌱 I’m currently learning  Kotlin and Android Studio.<br>💬 Ask me about Python, JavaScript, Java and C#.<br>📫 How to reach me salazarcotuae@gmail.com or eloyalejandrosalazarcotua@gmail.com
 
 
-[![Github](https://img.shields.io/github/followers/EloySalazar?label=Follow&style=social)](https://github.com/EloySalazar)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=EloySalazar&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=EloySalazar&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EloySalazar&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div size='20px'> Hi! My name is Eloy. Thank you for taking the time to view my GitHub Profile.
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=EloySalazar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h2> About me </h2>
+---
+[![](https://visitcount.itsvg.in/api?id=EloySalazar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 I’m currently studying.
-  
-- 🌱 I’m currently learning Ruby,Kotlin and Android Studio.
-  
-- 👯 I’m looking to collaborate on projects.
-  
-- 💬 Ask me about Python, JavaScript, Java and C#.
-
-- 📫 How to reach me salazarcotuae@gmail.com or eloyalejandrosalazarcotua@gmail.com
-
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
- <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg'> </a>
- <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg'> </a>
- <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg'> </a>
- <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg'> </a>
-<a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg'> </a>
- <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg'> </a>
- <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg'> </a>
- <a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg'> </a>
- <a href= 'https://github.com/EloySalazar?tab=repositories&q=&type=&language=html&sort='> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg'> </a>
- <a href= https://github.com/JheyluisReyes?tab=repositories&q=&type=&language=html&sort=> <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg'> </a>
- <a href= 'https://github.com/EloySalazar?tab=repositories&q=&type=&language=android&sort='> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg'> </a>
-<a href= https://github.com/EloySalazar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg'> </a>
-
-<br>
-<br>
-
-| ![Eloy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EloySalazar&show_icons=true&theme=codeSTACKr) | ![Eloy Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=EloySalazar&theme=codeSTACKr) |
-| --- | --- |
-|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EloySalazar&hide=C,kvlang,html&theme=codeSTACKr)| ![GitHub Stars](https://github-readme-stats.vercel.app/api?username=EloySalazar&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=codeSTACKr) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=codeSTACKr)
-
-<br>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
