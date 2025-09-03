@@ -4,9 +4,7 @@
 
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Python, JavaScript, Java and C#.
-- 🔭 I’m currently working on **[Merge Corporation](https://github.com/MergeCorporation)**.
 - 👨‍💻 All of my projects are available at **[Repositories](https://github.com/EloySalazar?tab=repositories)**.
-- 🌱 I’m currently learning Kotlin and Android Studio.
 - 📫 How to reach me salazarcotuae@gmail.com or eloyalejandrosalazarcotua@gmail.com
 
 
